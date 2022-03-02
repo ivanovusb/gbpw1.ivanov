@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">gbpw1.ivanov</string>
+    <string name="click">Клик</string>
+    <string name="clack">клак</string>
+    <string name="boom">Boom!</string>
+    <string name="hello_world">Hello World !</string>
+    <string name="insert_text">Здесь может быть ваш текст</string>
+    <string name="switch_one">Переключатель успеха</string>
+    <string name="text_unlucky">Успех отключен!</string>
 </resources>
